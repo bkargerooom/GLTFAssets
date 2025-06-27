@@ -337,7 +337,7 @@
     "buffers" : [
         {
             "byteLength" : 410476,
-            "uri" : "monkey.bin"
+            "uri" : "../monkey.bin"
         }
     ]
 }
