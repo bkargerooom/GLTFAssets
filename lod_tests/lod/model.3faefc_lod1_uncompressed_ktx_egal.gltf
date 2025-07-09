@@ -2602,74 +2602,74 @@
     {
       "extensions": {
         "KHR_texture_basisu": {
+          "source": 0,
           "mimeType": "image/ktx2"
         }
       },
-      "sampler": 0,
-      "source": 0
+      "sampler": 0
     },
     {
       "extensions": {
         "KHR_texture_basisu": {
+          "source": 1,
           "mimeType": "image/ktx2"
         }
       },
-      "sampler": 1,
-      "source": 1
+      "sampler": 1
     },
     {
       "extensions": {
         "KHR_texture_basisu": {
+          "source": 2,
           "mimeType": "image/ktx2"
         }
       },
-      "sampler": 2,
-      "source": 2
+      "sampler": 2
     },
     {
       "extensions": {
         "KHR_texture_basisu": {
+          "source": 3,
           "mimeType": "image/ktx2"
         }
       },
-      "sampler": 3,
-      "source": 3
+      "sampler": 3
     },
     {
       "extensions": {
         "KHR_texture_basisu": {
+          "source": 4,
           "mimeType": "image/ktx2"
         }
       },
-      "sampler": 4,
-      "source": 4
+      "sampler": 4
     },
     {
       "extensions": {
         "KHR_texture_basisu": {
+          "source": 5,
           "mimeType": "image/ktx2"
         }
       },
-      "sampler": 5,
-      "source": 5
+      "sampler": 5
     },
     {
       "extensions": {
         "KHR_texture_basisu": {
+          "source": 6,
           "mimeType": "image/ktx2"
         }
       },
-      "sampler": 6,
-      "source": 6
+      "sampler": 6
     },
     {
       "extensions": {
         "KHR_texture_basisu": {
+          "source": 7,
           "mimeType": "image/ktx2"
         }
       },
-      "sampler": 7,
-      "source": 7
+      "sampler": 7
     }
   ]
 }
