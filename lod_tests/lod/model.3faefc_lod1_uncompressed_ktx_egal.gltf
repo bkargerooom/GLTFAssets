@@ -2605,7 +2605,8 @@
           "mimeType": "image/ktx2"
         }
       },
-      "sampler": 0
+      "sampler": 0,
+      "source": 0
     },
     {
       "extensions": {
@@ -2613,7 +2614,8 @@
           "mimeType": "image/ktx2"
         }
       },
-      "sampler": 1
+      "sampler": 1,
+      "source": 1
     },
     {
       "extensions": {
@@ -2621,7 +2623,8 @@
           "mimeType": "image/ktx2"
         }
       },
-      "sampler": 2
+      "sampler": 2,
+      "source": 2
     },
     {
       "extensions": {
@@ -2629,7 +2632,8 @@
           "mimeType": "image/ktx2"
         }
       },
-      "sampler": 3
+      "sampler": 3,
+      "source": 3
     },
     {
       "extensions": {
@@ -2637,7 +2641,8 @@
           "mimeType": "image/ktx2"
         }
       },
-      "sampler": 4
+      "sampler": 4,
+      "source": 4
     },
     {
       "extensions": {
@@ -2645,7 +2650,8 @@
           "mimeType": "image/ktx2"
         }
       },
-      "sampler": 5
+      "sampler": 5,
+      "source": 5
     },
     {
       "extensions": {
@@ -2653,7 +2659,8 @@
           "mimeType": "image/ktx2"
         }
       },
-      "sampler": 6
+      "sampler": 6,
+      "source": 6
     },
     {
       "extensions": {
@@ -2661,7 +2668,8 @@
           "mimeType": "image/ktx2"
         }
       },
-      "sampler": 7
+      "sampler": 7,
+      "source": 7
     }
   ]
 }
