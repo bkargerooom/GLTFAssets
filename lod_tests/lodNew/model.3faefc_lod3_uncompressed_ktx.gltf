@@ -2606,7 +2606,18 @@
           "source": 0
         }
       },
-      "sampler": 0
+      "sampler": 0,
+      "extras": {
+        "resolutions": [
+          "8",
+          "16",
+          "32",
+          "64",
+          "128",
+          "256",
+          "512"
+        ]
+      }
     },
     {
       "extensions": {
@@ -2615,7 +2626,17 @@
           "source": 1
         }
       },
-      "sampler": 1
+      "sampler": 1,
+      "extras": {
+        "resolutions": [
+          "8",
+          "16",
+          "32",
+          "64",
+          "128",
+          "256"
+        ]
+      }
     },
     {
       "extensions": {
@@ -2624,7 +2645,18 @@
           "source": 2
         }
       },
-      "sampler": 2
+      "sampler": 2,
+      "extras": {
+        "resolutions": [
+          "8",
+          "16",
+          "32",
+          "64",
+          "128",
+          "256",
+          "512"
+        ]
+      }
     },
     {
       "extensions": {
@@ -2633,7 +2665,16 @@
           "source": 3
         }
       },
-      "sampler": 3
+      "sampler": 3,
+      "extras": {
+        "resolutions": [
+          "8",
+          "16",
+          "32",
+          "64",
+          "128"
+        ]
+      }
     },
     {
       "extensions": {
@@ -2642,7 +2683,16 @@
           "source": 4
         }
       },
-      "sampler": 4
+      "sampler": 4,
+      "extras": {
+        "resolutions": [
+          "8",
+          "16",
+          "32",
+          "64",
+          "128"
+        ]
+      }
     },
     {
       "extensions": {
@@ -2651,7 +2701,16 @@
           "source": 5
         }
       },
-      "sampler": 5
+      "sampler": 5,
+      "extras": {
+        "resolutions": [
+          "8",
+          "16",
+          "32",
+          "64",
+          "128"
+        ]
+      }
     },
     {
       "extensions": {
@@ -2660,7 +2719,17 @@
           "source": 6
         }
       },
-      "sampler": 6
+      "sampler": 6,
+      "extras": {
+        "resolutions": [
+          "8",
+          "16",
+          "32",
+          "64",
+          "128",
+          "256"
+        ]
+      }
     },
     {
       "extensions": {
@@ -2669,7 +2738,16 @@
           "source": 7
         }
       },
-      "sampler": 7
+      "sampler": 7,
+      "extras": {
+        "resolutions": [
+          "8",
+          "16",
+          "32",
+          "64",
+          "128"
+        ]
+      }
     }
   ]
 }

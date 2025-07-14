@@ -1,0 +1,53 @@
+{
+    "models": {
+        "version": "v2.2.0",
+        "original": {
+            "resource": {
+                "type": "mesh",
+                "path": "https://raw.githubusercontent.com/bkargerooom/GLTFAssets/refs/heads/main/lod_tests/lodNew/",
+                "name": "model.3faefc",
+                "extension": "glb",
+                "filesize": 1000000
+            },
+            "created": 1751007464,
+            "version": 1
+        },
+        "lod_info": {
+          "store_path": "https://raw.githubusercontent.com/bkargerooom/GLTFAssets/refs/heads/main/lod_tests/lodNew/",
+          "texture_sizes": [1024, 512, 128, 64, 32],
+          "compression": true
+        },
+        "lods": [
+            {
+                "level": 1,
+                "decimate": 0.3,
+                "modelfile" : "model.3faefc_lod1_uncompressed_gltf.gltf",
+                "modelfile_compressed" : "model.3faefc_lod1_uncompressed_ktx.gltf"
+            },
+            {
+                "level": 2,
+                "decimate": 0.5,
+                "modelfile" : "model.3faefc_lod2_uncompressed_gltf.gltf",
+                "modelfile_compressed" : "model.3faefc_lod2_uncompressed_ktx.gltf"
+            },
+            {
+                "level": 3,
+                "decimate": 0.7,
+                "modelfile" : "model.3faefc_lod3_uncompressed_gltf.gltf",
+                "modelfile_compressed" : "model.3faefc_lod3_uncompressed_ktx.gltf"
+            },
+            {
+                "level": 4,
+                "decimate": 0.8,
+                "modelfile" : "model.3faefc_lod4_uncompressed_gltf.gltf",
+                "modelfile_compressed" : "model.3faefc_lod4_uncompressed_ktx.gltf"
+            },
+            {
+                "level": 5,
+                "decimate": 0.85,
+                "modelfile" : "model.3faefc_lod5_uncompressed_gltf.gltf",
+                "modelfile_compressed" : "model.3faefc_lod5_uncompressed_ktx.gltf"
+            }
+        ]
+    }
+}
