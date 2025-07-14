@@ -2597,6 +2597,7 @@
       "sampler": 0,
       "source": 0,
       "extras": {
+        "test": "test",
         "resolutions": [
           "8",
           "16",
